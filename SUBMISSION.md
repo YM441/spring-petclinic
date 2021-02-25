@@ -19,7 +19,7 @@ the unsuccessful build
 ![the unsuccessful build](images/6.PNG)
 
 build failed status
-![build failed status](images/7.PNG) file.
+![build failed status](images/7.PNG)
 
 coordinates fixed
 ![coordinates fixed](images/8.PNG)
