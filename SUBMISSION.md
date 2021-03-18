@@ -1,31 +1,29 @@
 **Name: Yiji Man  Student ID: 1888972**
 
-forked from the depaulcdm/springpetclinic
-![forked from the depaulcdm/springpetclinic](images/1.PNG)
+![Dockerfile](dockerfile)
 
-a successful first build
-![a successful first build](images/2.PNG)
+running docker instance as shown by a ps command.
+![running docker instance as shown by a ps command.](images2/2.PNG)
 
-The section of the POM file
-![The section of the POM file](images/3.PNG)
+browser accessing the main page of the website from your local container
+![browser accessing the main page of the website from your local container](images2/3.PNG)
 
-a successful build after your change of the group ID.
-![a successful build after your change of the group ID.](images/4.PNG)
+output from the docker-compose up command.
+![output from the docker-compose up command.](images2/4.PNG)
 
-coordinates commented out.
-![coordinates commented out.](images/5.PNG)
+browser accessing the \Veterinarians" page -- I could not access to the website while using mysql only. The container and the app are both running but still no access
+![browser accessing theVeterinarians" page.](images2/5.PNG)
 
-the unsuccessful build
-![the unsuccessful build](images/6.PNG)
+A section of the stack trace generated
+![A section of the stack trace generated](images2/6.PNG)
 
-build failed status
-![build failed status](images/7.PNG)
+![updated docker-compose.yml file](docker-compose.yml)
 
-coordinates fixed
-![coordinates fixed](images/8.PNG)
+![updated application-mysql.properties file](src/main/resources/application-mysql.properties)
 
-the successful build
-![the successful build](images/9.PNG)
+output from the docker-compose up command.
+![output from the docker-compose up command.](images2/9.PNG)
+![output from the docker-compose up command. 2](images2/9.1.PNG)
 
-build success status
-![build success status](images/10.PNG)
+browser accessing the \Veterinarians" page
+![browser accessing the Veterinarians page](images2/10.PNG)
