@@ -1,6 +1,6 @@
 **Name: Yiji Man  Student ID: 1888972**
 
-![Dockerfile](dockerfile)
+![Dockerfile](Dockerfile)
 
 running docker instance as shown by a ps command.
 ![running docker instance as shown by a ps command.](images2/2.PNG)
